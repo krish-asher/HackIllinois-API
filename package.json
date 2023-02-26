@@ -1,0 +1,11 @@
+{
+  "name": "hackillinois-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ServerStart.js",
+  "scripts": {
+    "start": "node ServerStart.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
