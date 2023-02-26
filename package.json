@@ -1,11 +1,19 @@
 {
   "name": "hackillinois-api",
   "version": "1.0.0",
-  "description": "",
   "main": "ServerStart.js",
   "scripts": {
     "start": "node ServerStart.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish-asher/HackIllinois-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krish-asher/HackIllinois-API/issues"
+  },
+  "homepage": "https://github.com/krish-asher/HackIllinois-API#readme",
+  "description": ""
 }
